@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: gaming-pass-api
+  datasource:
+    url: jdbc://etc..
+    username: root
+    password: root
